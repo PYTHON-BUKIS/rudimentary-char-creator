@@ -43,3 +43,10 @@ public class SpriteChanger : MonoBehaviour
         UpdateSprite();
     }
 }
+
+//this errors sometimes in the editor, IDK what's wrong with it. something about the UI is breaking it...but IDK 
+//If you understand please tell me, this has been bothering me for the past hour working on this
+//if it works it works i guess 50% of the time...I know there's an easier way of doing this
+//but sadly that error and my lack of understanding made me take the longer route...
+//phantom error 
+//HI SIR :]
